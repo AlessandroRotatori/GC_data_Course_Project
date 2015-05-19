@@ -1,5 +1,8 @@
-README for Getting and Cleaning the Data project
-=================================================
+README 
+============================
+Getting and Cleaning the Data project
+============================
+============================
 #Introduction
 
 The purpose of this project is to create a tidy data, to be used in later analysis, from raw dataset.
